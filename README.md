@@ -1,8 +1,8 @@
 ### Hi, I'm Aleksandra
 
-I hold a Bachelor's degree in Computer Science and I'm currently pursuing my Master's degree.
+I hold a Bachelor's degree in Computer Science and I'm currently pursuing my Master's degree. 
 
-
+Feel free to explore my projects and learn more about my skills and experience.
 
 
 <p align="center">
