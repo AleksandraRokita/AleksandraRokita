@@ -27,4 +27,4 @@ Feel free to explore my projects and learn more about my skills and experience.
     </td>
 
   </tr>
-</table>
+</table> 
