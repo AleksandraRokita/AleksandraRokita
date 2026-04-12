@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Aleksandra 👋</h2>
 
 <p align="center">
-I hold a Bachelor's degree in Computer Science and I'm currently pursuing my Master's degree. <br>
+I'm currently pursuing my Master's degree in computer science. <br>
 Feel free to explore my projects and learn more about my skills and experience.
 </p>
 
@@ -11,7 +11,7 @@ Feel free to explore my projects and learn more about my skills and experience.
   <tr>
         <td align="center">
       <!-- STATYSTYKI -->
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=AleksandraRokita&theme=jolly" height="180"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AleksandraRokita&theme=jolly" height="180"/>
     </td>
     <td align="center">
       <!-- BADGE -->
