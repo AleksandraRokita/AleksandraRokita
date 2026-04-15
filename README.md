@@ -11,7 +11,7 @@ Feel free to explore my projects and learn more about my skills and experience.
   <tr>
         <td align="center">
       <!-- STATYSTYKI -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AleksandraRokita&theme=jolly" height="180"/>
+      <img src="https://streak-stats.demolab.com?user=AleksandraRokita&theme=jolly" height="180"/>
     </td>
     <td align="center">
       <!-- BADGE -->
